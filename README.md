@@ -38,7 +38,7 @@
 - Fasteners ($3,024), Labels ($12,486), Envelopes ($16,476), Art ($27,119)
 
 **Recommendation:**
-- Phones and Chairs are near-equal top contributors — ensure these remain well-stocked year-round.
+- Phones and Chairs are near-equal top contributors, ensure these remain well-stocked year-round.
 - Low-volume sub-categories like Fasteners, Labels, and Envelopes could be bundled as add-ons or promoted through "frequently bought together" recommendations rather than maintained as standalone high-cost inventory items.
 
 ## 4. Monthly Profit Analysis
@@ -49,12 +49,16 @@
 - Interestingly, November had the *highest sales* but December had the *highest profit*, suggesting November may involve more discounting or promotional pricing.
 
 **Recommendation:**
-- Investigate November's pricing strategy — if heavy discounting is reducing margins, consider fewer blanket discounts and more targeted offers (e.g., loyalty-exclusive deals).
+- Investigate November's pricing strategy, if heavy discounting is reducing margins, consider fewer blanket discounts and more targeted offers (e.g., loyalty-exclusive deals).
 - Replicate December's profit-maximizing conditions (product mix, pricing) in other months.
+
 
 ## 5. Profit by Category and Sub-Category
 
-**By Category:** |
+**By Category:**
+
+| Category | Profit |
+|---|---|
 | Technology | $145,455 (highest) |
 | Office Supplies | $122,491 |
 | Furniture | $18,451 (lowest) |
@@ -70,21 +74,22 @@
 - Copiers ($55,618), Phones ($44,516), Accessories ($41,937)
 
 **Recommendation:**
-- Tables and Bookcases are actively losing money — urgently review their pricing, supplier costs, or consider discontinuing/replacing them with more profitable alternatives.
+- Tables and Bookcases are actively losing money, urgently review their pricing, supplier costs, or consider discontinuing/replacing them with more profitable alternatives.
 - The Furniture category needs a profitability overhaul; consider renegotiating supplier contracts or revising discount policies on furniture items.
-- Copiers deliver outstanding profit relative to sales volume — consider promoting them more aggressively.
+- Copiers deliver outstanding profit relative to sales volume, consider promoting them more aggressively.
 
 
 ## 6. Sales and Profit by Customer Segment
 
 | Segment | Sales | Profit | Sales-to-Profit Ratio |
+|---|---|---|---|
 | Consumer | $1,161,401 | $134,119 | 8.66 |
 | Corporate | $706,146 | $91,979 | 7.68 |
 | Home Office | $429,653 | $60,299 | 7.13 |
 
 **Findings:**
 - The **Consumer segment** dominates both sales and profit, accounting for nearly half of total revenue.
-- **Home Office** has the best sales-to-profit ratio (7.13), meaning it generates more profit per dollar of sales than the others, it's the most efficient segment despite being the smallest.
+- **Home Office** has the best sales-to-profit ratio (7.13), meaning it generates more profit per dollar of sales than the others — it's the most efficient segment despite being the smallest.
 
 **Recommendation:**
 - Invest in growing the Home Office segment, it is the most profitable per dollar of sales. Targeted marketing, dedicated product bundles, and personalized outreach could significantly grow this high-efficiency segment.
@@ -106,5 +111,5 @@ All three segments have ratios between 7–9, meaning roughly $7–$9 in sales i
 1. **Fix Furniture profitability** Tables and Bookcases are loss-making and dragging down the entire category.
 2. **Leverage Q4 momentum** Maximize November/December with smarter pricing (not just discounts).
 3. **Grow the Home Office segment** It's the most efficient; targeted investment here yields the best returns.
-4. **Promote Copiers and Accessories** High profit margins make these star performers worth promoting.
-5. **Address the February slump** Build campaigns specifically to boost January–February performance.
+4. **Promote Copiers and Accessories** — High profit margins make these star performers worth promoting.
+5. **Address the February slump** — Build campaigns specifically to boost January–February performance.
