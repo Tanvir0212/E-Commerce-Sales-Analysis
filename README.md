@@ -108,8 +108,8 @@ All three segments have ratios between 7–9, meaning roughly $7–$9 in sales i
 
 ## Summary of Key Action Points
 
-1. **Fix Furniture profitability** Tables and Bookcases are loss-making and dragging down the entire category.
-2. **Leverage Q4 momentum** Maximize November/December with smarter pricing (not just discounts).
-3. **Grow the Home Office segment** It's the most efficient; targeted investment here yields the best returns.
-4. **Promote Copiers and Accessories** — High profit margins make these star performers worth promoting.
-5. **Address the February slump** — Build campaigns specifically to boost January–February performance.
+1. **Fix Furniture profitability**: Tables and Bookcases are loss-making and dragging down the entire category.
+2. **Leverage Q4 momentum**: Maximize November/December with smarter pricing (not just discounts).
+3. **Grow the Home Office segment**: It's the most efficient; targeted investment here yields the best returns.
+4. **Promote Copiers and Accessories**: High profit margins make these star performers worth promoting.
+5. **Address the February slump**: Build campaigns specifically to boost January–February performance.
